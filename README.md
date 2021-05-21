@@ -4,7 +4,7 @@
  
 This is the BackEnd Repository, developed using [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/) and using [Body Parser](https://www.npmjs.com/package/body-parser), [Bcrypt](https://www.npmjs.com/package/bcrypt-nodejs) and [Knex](http://knexjs.org/) as NPMs.
  
-The FrontEnd Repository developed in [React.js](https://reactjs.org/) and using the [Tachyons NPM](https://www.npmjs.com/package/tachyons) to ease and quicken the CSS Styling part.
+The [FrontEnd](https://github.com/WalkerAlonso/facerecognitionapp) Repository developed in [React.js](https://reactjs.org/) and using the [Tachyons NPM](https://www.npmjs.com/package/tachyons) to ease and quicken the CSS Styling part.
 
 The FrontEnd part of the app consist on a modularly structured architecture, organized in components and containers minimizing repetition of code and maximizing reusability.
 The organization allows to have a more efficient identification of eventual bugs or problems due to the fact that every component is self-contained.
